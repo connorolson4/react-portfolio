@@ -1,0 +1,54 @@
+.footer {
+    background: #272727;
+    width: 100%;
+    padding-top: 2rem;
+    text-align: center;
+    padding-bottom: 1rem;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #557a95;
+    flex-shrink: 0;
+}
+
+#react-logo {
+    height: 1.5rem;
+}
+
+.contact-icon {
+    font-size: 2.5rem;
+    margin: 0 2rem;
+    color: #557a95;
+    transition: 0.3s ease-in-out;
+}
+
+.contact-info {
+    margin-bottom: 2rem;
+    margin-top: 3rem;
+}
+
+
+.contact-icon:hover, .contact-links:hover {
+    transform: scale(1.2) !important;
+    cursor: pointer;
+    color: #aaabb8;
+}
+
+#footer-message {
+    font-size: 0.9rem;
+}
+
+@media only screen and (max-width: 428px) {
+    #footer-message {
+        padding: 0 1rem;
+        line-height: 1rem;
+    }
+
+    #react-logo {
+        margin-bottom: 2rem;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .contact-icon {
+        margin: 0 1rem;
+    }
+}

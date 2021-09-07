@@ -1,0 +1,32 @@
+.portfolio-container {
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    background-color: #5d5c61;
+    color: white;
+    font-size: 1.5em;
+    margin-top: 8rem;
+}
+
+/* @media only screen and (min-height: 1200px) {
+    .portfolio-container {
+        margin-top: 1rem;
+    }
+}
+
+@media only screen and (min-width: 2000px) {
+    .portfolio-container {
+        margin-top: 12rem;
+    }
+}
+
+@media only screen and (width: 1024px) and (height: 1366px) {
+    .portfolio-container {
+        margin-top: 8rem;
+    }
+}
+
+@media only screen and (width: 820px) and (height: 1180px) {
+    .portfolio-container {
+        padding: 0 1rem;
+    }
+} */
