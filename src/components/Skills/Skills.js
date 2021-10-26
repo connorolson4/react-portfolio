@@ -71,7 +71,7 @@ function Skills() {
                     <div className="languages">
                     <h3><span className="middot">&middot;&middot;&middot;</span> PROTOCOLS <span className="middot">&middot;&middot;&middot;</span></h3>
                     <br/>
-                    <h4 className="vert">TCP/IP<br/>DNS<br/>HTTP<br/>EIGRP<br/>OSPF<br/>MEDICAL PHYSICS</h4>
+                    <h4 className="vert">TCP/IP<br/>DNS<br/>HTTP<br/>EIGRP<br/>OSPF</h4>
                     
                     </div>
                     <div className="tools">
